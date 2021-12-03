@@ -3,6 +3,7 @@
 module.exports = gpmbcFramework;
 
 function gpmbcFramework() {
-    console.log('gpmbcFramework----这个是测试455677')
-    // TODO
+  const abc = 'aaaa'
+  console.log('gpmbcFramework----这个是测试4545')
+  // TODO
 }
