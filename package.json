@@ -6,9 +6,6 @@
     "lerna": "^4.0.0"
   },
   "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    },
     "ghooks": {
       "commit-msg": "./validate-commit-msg.js"
     }
