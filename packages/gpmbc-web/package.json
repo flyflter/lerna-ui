@@ -13,13 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "http://localhost:4873/"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/flyflter/lerna-ui.git"
-  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
