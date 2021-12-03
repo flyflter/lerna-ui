@@ -1,11 +1,11 @@
-# `@btn/btn-web`
+# `@xy-demo/switch`
 
 > TODO: description
 
 ## Usage
 
 ```
-const btnWeb = require('@btn/btn-web');
+const switch = require('@xy-demo/switch');
 
 // TODO: DEMONSTRATE API
 ```

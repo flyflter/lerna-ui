@@ -1,11 +1,11 @@
 {
-  "name": "@btn/btn-web",
+  "name": "@xy-demo/button",
   "version": "0.0.0",
-  "description": "按钮组件测试",
+  "description": "按钮",
   "author": "zhongy-g <zhongy-g@glodon.com>",
   "homepage": "https://github.com/flyflter/lerna-ui#readme",
   "license": "ISC",
-  "main": "lib/index.js",
+  "main": "lib/button.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
