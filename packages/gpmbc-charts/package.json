@@ -1,11 +1,11 @@
 {
-  "name": "@gpmbc/gpmbc-web",
+  "name": "@gpmbc/gpmbc-charts",
   "version": "0.0.5",
   "description": "> TODO: description",
   "author": "zhongy-g <zhongy-g@glodon.com>",
   "homepage": "https://github.com/flyflter/lerna-ui#readme",
   "license": "ISC",
-  "main": "lib/gpmbc-web.js",
+  "main": "lib/gpmbc-charts.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
