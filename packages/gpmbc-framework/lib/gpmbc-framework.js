@@ -4,6 +4,6 @@ module.exports = gpmbcFramework;
 
 function gpmbcFramework() {
   const abc = 'aaaa'
-  console.log('gpmbcFramework----这个是测试')
+  console.log('gpmbcFramework----这个是测试9999')
   // TODO
 }
