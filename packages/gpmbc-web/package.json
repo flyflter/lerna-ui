@@ -4,7 +4,6 @@
   "description": "> TODO: description",
   "author": "zhongy-g <zhongy-g@glodon.com>",
   "homepage": "https://github.com/flyflter/lerna-ui#readme",
-  "license": "ISC",
   "main": "lib/gpmbc-web.js",
   "directories": {
     "lib": "lib",
@@ -19,5 +18,5 @@
   "bugs": {
     "url": "https://github.com/flyflter/lerna-ui/issues"
   },
-  "gitHead": "7c1b540a23e66d7b8b6c3210bc23870b23838810"
+  "gitHead": "4557385a2259c7dd4b3ea80d07e1e0af327629df"
 }
