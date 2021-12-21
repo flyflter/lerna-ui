@@ -1,10 +1,10 @@
 {
   "name": "@gpmbc/gpmbc-web",
-  "version": "0.1.11",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "zhongy-g <zhongy-g@glodon.com>",
   "homepage": "https://github.com/flyflter/lerna-ui#readme",
-  "main": "lib/gpmbc-web.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
