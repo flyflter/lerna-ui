@@ -7,14 +7,18 @@
 //     // TODO
 // }
 
-import Btn from './button'
+import HBtn from './button'
 
-Btn.install = function (Vue) {
-  Vue.component(Btn.name, Btn)
+const install = (Vue) => {
+  console.log('install all comps')
+  Vue.component('HBtn', HBtn)
 }
-
-export {
-  Btn
+// if use Vue in script like <script scr='....vue.min.js'></script> then install
+if (typeof window !== 'undefined' && window.Vue) {
+  install(window.Vue)
+}
+export default {
+  install
 }
 
 
