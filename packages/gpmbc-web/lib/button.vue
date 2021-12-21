@@ -12,6 +12,7 @@
 
     methods: {
       clickHandle (e) {
+        console.log('这是一个测试')
         alert('我被点击了')
       }
     }
